@@ -1,4 +1,4 @@
-# SQL & Postgres Course
+# SQL Beginner to Advanced Courses
 
 ## Course 1 - Relational Database and SQL Essentials
 https://amigoscode.com/p/postgres
